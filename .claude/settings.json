@@ -7,5 +7,5 @@
     "ask": []
   },
   "plansDirectory": ".claude/plans/",
-  "model": "opusplan",
+  "model": "opusplan"
 }
