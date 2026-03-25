@@ -4,7 +4,8 @@
       "Bash(rm:*)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "defaultMode": "plan"
   },
   "plansDirectory": ".claude/plans/",
   "model": "opusplan"
